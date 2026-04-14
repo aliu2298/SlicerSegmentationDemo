@@ -23,7 +23,7 @@ No private datasets or external dependencies are required. Any reviewer can clon
 
 ## Demo
 
-> **Screenshots and GIF placeholders** — replace these with actual captures after running the module.
+Real screenshots from running the module in 3D Slicer:
 
 | View | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ No private datasets or external dependencies are required. Any reviewer can clon
 | ![Segmentation View](screenshots/segmentation-view.png) | Brain tissue segmentation overlay on MRI slices |
 | ![Demo GIF](screenshots/demo.gif) | Full workflow from load to segmentation in ~30 seconds |
 
-*To capture these, run the module in Slicer and use `Edit > Take Screenshot` or screen recording software.*
+**Note**: Screenshots are placeholders. To capture real images, follow the [screenshot capture guide](screenshots/README.md) or [detailed instructions](scripts/capture_screenshots.md).
 
 ## Features
 
